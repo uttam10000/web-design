@@ -1,0 +1,47 @@
+h1,h2,h3,h4,h5,h6,p,ul,ol,li,image,a,td,table,th{
+    margin:0;
+}
+h1{
+    font-size:50px;
+}
+p {
+    color:red;
+    font-size:30px;
+    font-weight:bold
+}
+h1{
+    background:#3498db;
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+#first-paragraph{
+color:green;
+}
+#second-paragraph{
+color:aquamarine;
+}
+.my-own-class{
+    background: green;
+font-size:40px;
+font-style:italic;
+text-decoration: underline;
+
+}
+.box1{
+    width:200px;
+    height:100px;
+    background-color:aqua; 
+    background-image:linear
+    text-align: center;
+    background: url('EK-YsU9XYAU7R-o.jpg')
+}
+h5{
+    color:red;
+}
+.box1 h5{
+    color:white;
+}
+.box{
+    
+}
